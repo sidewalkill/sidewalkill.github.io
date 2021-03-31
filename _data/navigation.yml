@@ -2,8 +2,8 @@
 main
    - title: "Resume"
      url: Shwetha_Kunnam___Resume.pdf 
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+   - title: "About"
+     url: /about/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
