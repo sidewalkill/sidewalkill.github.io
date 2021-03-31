@@ -1,5 +1,5 @@
 ---
-title: Home
+title:
 permalink: /
 ---
 <font size="3"> 
