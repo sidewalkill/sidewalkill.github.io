@@ -1,7 +1,7 @@
 # main links
-main
+main:
    - title: "Resume"
-     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+     url: https://github.com/sidewalkill/sidewalkill.github.io/blob/master/Shwetha_Kunnam___Resume.pdf
    - title: "About"
      url: /about/
   # - title: "Sample Collections"
